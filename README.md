@@ -9,3 +9,7 @@ The front-end(client) side of [DataFlowManager](https://github.com/OtavioLara/da
   * npm install
 
   * npm start
+  
+  http://localhost:3000
+  
+  
