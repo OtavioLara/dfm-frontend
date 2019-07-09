@@ -1,4 +1,4 @@
-The front-end(client) side of [DataFlowManager](https://github.com/OtavioLara/dataFlowManager) using React to a restfull communication.
+The front-end(client) side of [DataFlowManager](https://github.com/OtavioLara/dataFlowManager) using React for a restful communication.
 
 ### Running this project:
 
