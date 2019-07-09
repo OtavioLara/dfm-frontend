@@ -1,8 +1,11 @@
 The front-end(client) side of [DataFlowManager](https://github.com/OtavioLara/dataFlowManager) using React to a restfull communication.
 
-To run this project:
+### Running this project:
 
-git clone git@github.com:OtavioLara/dfm-frontend.git
-cd dfm-frontend
-npm install
-npm start
+  * git clone git@github.com:OtavioLara/dfm-frontend.git
+
+  * cd dfm-frontend
+
+  * npm install
+
+  * npm start
